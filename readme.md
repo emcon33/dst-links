@@ -3,15 +3,16 @@ by Andrew Grimes
 Date: 01/20/25
 
 
-Red Hat OCP Price Book: (Internal)
-
-https://docs.google.com/spreadsheets/d/1Nl80Cqzr9IgAi3NTTLIoVEKuKI07scMTw_LEUqkrV9I/edit?gid=83359930#gid=83359930
-
 Red Hat OCP Sales Plays: (Internal) 2025 is still under construction
 https://content.redhat.com/us/en/sales-enablement/sales-plays-overview.html
 
 Red Hat SSP Resource Page: (Internal) 
 https://source.redhat.com/groups/public/na_gtm_tech_team/ssp_resources
+
+Commercial Rediness Handbook
+https://docs.google.com/presentation/d/1DT6kPNjhecawJgBTy8pZ8tRoi45ALUk4xYY_y3n7PNo/edit
+
+
 
 Virtualizaiton                                         
 Seller Customer Virtualizaiton Deck
@@ -28,3 +29,11 @@ https://content.redhat.com/us/en/assets/display.html?id=543245b0-323e-45b9-9f80-
 Red Hat OpenShift AI 301 level technical deck
 https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
 
+Red Hat OCP Price Book: (Internal)                                                        
+https://docs.google.com/spreadsheets/d/1Nl80Cqzr9IgAi3NTTLIoVEKuKI07scMTw_LEUqkrV9I/edit?gid=83359930#gid=83359930
+
+NA Direct Price Book: (Internal)
+https://docs.google.com/spreadsheets/d/1q8OPgyzwDjt67ZbCgWo3_D45EDIjcXWM9YfBDJEI6sA/edit?gid=1971681023#gid=1971681023
+
+NA Channel Price Book: (Inernal)                                       
+https://docs.google.com/spreadsheets/d/1Nl80Cqzr9IgAi3NTTLIoVEKuKI07scMTw_LEUqkrV9I/edit?gid=894518363#gid=894518363
