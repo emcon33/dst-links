@@ -1,6 +1,6 @@
-This is a repo of Public links for General OpenShift Content for the DST team 
-by Andrew Grimes
-Date: 01/20/25
+This is a repo of Public links for General OpenShift Content for the DST team                      
+by Andrew Grimes                                                       
+Date: 01/20/25                                                     
 
 
 Red Hat OCP Sales Plays: (Internal) 2025 is still under construction                                     
