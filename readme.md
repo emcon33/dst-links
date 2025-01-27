@@ -21,6 +21,12 @@ https://content.redhat.com/us/en/assets/display.html?id=3b4be039-193b-43cb-b0ab-
 Virtualization 101 Deck Tech                                                           
 https://content.redhat.com/us/en/assets/display.html?id=0a9e3bc2-276d-4ab0-971a-be4ad0c3a546
 
+OVE                                                 
+https://docs.google.com/presentation/d/1bq_Timl1H9KL79g3wcgLhV10tzGRKrdZfLw-GadVako/edit#slide=id.g3251b95ef10_10_0
+
+VMware Wave Qualification
+https://docs.google.com/presentation/d/1CG1ntA2HyTXWCxTLntm0M1FdyMPu45qvd_L_pAsSTW0/edit#slide=id.g1f549af855e_0_247
+
 
 AI Sales Play(s)                                                                                                 
 Red Hat OpenShift AI for IT Ops 101 deck                                                
