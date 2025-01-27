@@ -23,7 +23,7 @@ https://content.redhat.com/us/en/assets/display.html?id=0a9e3bc2-276d-4ab0-971a-
 
 
 AI Sales Play(s)                                                                                                 
-Red Hat OpenShift AI for IT Ops 101 deck
+Red Hat OpenShift AI for IT Ops 101 deck                                                
 https://content.redhat.com/us/en/assets/display.html?id=543245b0-323e-45b9-9f80-c6652372451d
 
 Red Hat OpenShift AI 301 level technical deck                                       
