@@ -3,13 +3,13 @@ by Andrew Grimes
 Date: 01/20/25
 
 
-Red Hat OCP Sales Plays: (Internal) 2025 is still under construction
+Red Hat OCP Sales Plays: (Internal) 2025 is still under construction                                     
 https://content.redhat.com/us/en/sales-enablement/sales-plays-overview.html
 
-Red Hat SSP Resource Page: (Internal)                       
+Red Hat SSP Resource Page: (Internal)                                                                        
 https://source.redhat.com/groups/public/na_gtm_tech_team/ssp_resources
 
-Commercial Rediness Handbook                    
+Commercial Rediness Handbook                                                     
 https://docs.google.com/presentation/d/1DT6kPNjhecawJgBTy8pZ8tRoi45ALUk4xYY_y3n7PNo/edit
 
 
