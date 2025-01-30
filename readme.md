@@ -29,6 +29,7 @@ https://docs.google.com/presentation/d/1CG1ntA2HyTXWCxTLntm0M1FdyMPu45qvd_L_pAsS
 
 Virt Reference Architecture                                               
 https://access.redhat.com/articles/7067871
+https://access.redhat.com/sites/default/files/attachments/openshift_virtualization_reference_implementation_guide_v1.0.2_0.pdf
 
 
 AI Sales Play(s)                                                                                                 
