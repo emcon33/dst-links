@@ -27,6 +27,9 @@ https://docs.google.com/presentation/d/1bq_Timl1H9KL79g3wcgLhV10tzGRKrdZfLw-GadV
 VMware Wave Qualification
 https://docs.google.com/presentation/d/1CG1ntA2HyTXWCxTLntm0M1FdyMPu45qvd_L_pAsSTW0/edit#slide=id.g1f549af855e_0_247
 
+Virt Reference Architecture                                               
+https://access.redhat.com/articles/7067871
+
 
 AI Sales Play(s)                                                                                                 
 Red Hat OpenShift AI for IT Ops 101 deck                                                
