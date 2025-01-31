@@ -31,6 +31,12 @@ Virt Reference Architecture
 https://access.redhat.com/articles/7067871
 https://access.redhat.com/sites/default/files/attachments/openshift_virtualization_reference_implementation_guide_v1.0.2_0.pdf
 
+OpenShift Virt Internal Resources                
+https://catalog.redhat.com/platform/red-hat-openshift/virtualization
+
+OpenShift Virt Partner Assessment Dashboard.                       
+OpenShift Virt partner Assessment Dashboard. https://lookerstudio.google.com/u/0/reporting/f87e99f4-87de-4cd6-ad38-2fce9636f29e/page/p_xr0ju4ihjd
+
 
 AI Sales Play(s)                                                                                                 
 Red Hat OpenShift AI for IT Ops 101 deck                                                
