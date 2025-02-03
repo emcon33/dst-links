@@ -13,7 +13,6 @@ Commercial Rediness Handbook
 https://docs.google.com/presentation/d/1DT6kPNjhecawJgBTy8pZ8tRoi45ALUk4xYY_y3n7PNo/edit
 
 
-
 Virtualizaiton                                         
 Seller Customer Virtualizaiton                     
 https://content.redhat.com/us/en/assets/display.html?id=3b4be039-193b-43cb-b0ab-24976608421b
@@ -36,6 +35,13 @@ https://catalog.redhat.com/platform/red-hat-openshift/virtualization
 
 OpenShift Virt Partner Assessment Dashboard.                       
 OpenShift Virt partner Assessment Dashboard. https://lookerstudio.google.com/u/0/reporting/f87e99f4-87de-4cd6-ad38-2fce9636f29e/page/p_xr0ju4ihjd
+
+Workload Sales Play                                       
+
+RH1 Session for Workloads OPP+ and Clouds 
+https://docs.google.com/presentation/d/1n4ds_0CtTrhz2p0jUsKM5DXsPZEO1vrR7HVUk8eI8IE/edit#slide=id.g2851766554b_0_121
+
+
 
 
 AI Sales Play(s)                                                                                                 
