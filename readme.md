@@ -12,6 +12,12 @@ https://source.redhat.com/groups/public/na_gtm_tech_team/ssp_resources
 Commercial Rediness Handbook                                                     
 https://docs.google.com/presentation/d/1DT6kPNjhecawJgBTy8pZ8tRoi45ALUk4xYY_y3n7PNo/edit
 
+Red Hat Subscription process for self managed (external)              
+https://www.redhat.com/en/resources/self-managed-openshift-subscription-guide?extIdCarryOver=true&sc_cid=RHCTL0250000436420
+
+Red Hat Appications Subscription Guide (external)                    
+https://www.redhat.com/en/resources/application-services-subscription-guide-detail
+
 
 Virtualizaiton                                         
 Seller Customer Virtualizaiton                     
