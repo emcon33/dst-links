@@ -42,6 +42,9 @@ https://catalog.redhat.com/platform/red-hat-openshift/virtualization
 OpenShift Virt Partner Assessment Dashboard.                       
 OpenShift Virt partner Assessment Dashboard. https://lookerstudio.google.com/u/0/reporting/f87e99f4-87de-4cd6-ad38-2fce9636f29e/page/p_xr0ju4ihjd
 
+Supported Guest OS            
+https://access.redhat.com/articles/4234591
+
 Workload Sales Play                                       
 
 RH1 Session for Workloads OPP+ and Clouds 
