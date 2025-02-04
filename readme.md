@@ -30,10 +30,10 @@ https://docs.google.com/presentation/d/1Dr2H0O72m_JxUwoyvtHLaXjUjJ84_UGdgeJiO--0
 
 
 Virtualizaiton                                         
-Seller Customer Virtualizaiton                     
+Sales Customer Virtualizaiton Deck 101                   
 https://content.redhat.com/us/en/assets/display.html?id=3b4be039-193b-43cb-b0ab-24976608421b
 
-Virtualization 101 Deck Tech                                                           
+Technical Virtualization Deck 301                                                         
 https://content.redhat.com/us/en/assets/display.html?id=0a9e3bc2-276d-4ab0-971a-be4ad0c3a546
 
 OVE                                                 
