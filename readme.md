@@ -18,6 +18,16 @@ https://www.redhat.com/en/resources/self-managed-openshift-subscription-guide?ex
 Red Hat Appications Subscription Guide (external)                    
 https://www.redhat.com/en/resources/application-services-subscription-guide-detail
 
+OCP App Platform 101 Customer Facing
+https://content.redhat.com/us/en/assets/display.html?id=e5c4e357-a4f8-44d7-ba51-2fbb0e21cb76
+
+OCP App Platform 301 Customer Facing Provisional   
+https://docs.google.com/presentation/d/1mFMb2iRW1ivK2uozpMnJPkSqeahcNhcIIoUXvWZ0TVc/edit#slide=id.g2afd75cb101_0_7186
+
+OCP Developer Hub App Mod Provisional 
+https://docs.google.com/presentation/d/1Dr2H0O72m_JxUwoyvtHLaXjUjJ84_UGdgeJiO--00uw/edit#slide=id.g201d508a934_0_160
+
+
 
 Virtualizaiton                                         
 Seller Customer Virtualizaiton                     
