@@ -36,6 +36,9 @@ https://content.redhat.com/us/en/assets/display.html?id=3b4be039-193b-43cb-b0ab-
 Technical Virtualization Deck 301                                                         
 https://content.redhat.com/us/en/assets/display.html?id=0a9e3bc2-276d-4ab0-971a-be4ad0c3a546
 
+Hardware Catalog (external)
+https://catalog.redhat.com/search?searchType=hardware&certified_RedHat_Platforms=Red%20Hat%20OpenShift%20Container%20Platform&p=1
+
 OVE                                                 
 https://docs.google.com/presentation/d/1bq_Timl1H9KL79g3wcgLhV10tzGRKrdZfLw-GadVako/edit#slide=id.g3251b95ef10_10_0
 
