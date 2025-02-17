@@ -64,6 +64,9 @@ https://docs.google.com/presentation/d/1nDrBRZ-GvJwbpLkmlguqx9CxRRi6iWbNDGkOxCPg
 Vritualization Sizing Guide                
 https://access.redhat.com/articles/7107457
 
+RH1 Pricing Presentation 
+https://docs.google.com/presentation/d/1tdtqXpLFHQWc2lWQ_TP1-NlYxakKA4g7g0exTwMoWQ8/edit#slide=id.g2d600506f38_2_387
+
 
 
 Workload Sales Play                                       
