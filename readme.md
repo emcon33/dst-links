@@ -61,6 +61,11 @@ https://access.redhat.com/articles/4234591
 Bare Metal Discount Process                       
 https://docs.google.com/presentation/d/1nDrBRZ-GvJwbpLkmlguqx9CxRRi6iWbNDGkOxCPgaCA/edit#slide=id.g2d86095e9e2_0_5416
 
+Vritualization Sizing Guide                
+https://access.redhat.com/articles/7107457
+
+
+
 Workload Sales Play                                       
 RH1 Session for Workloads OPP+ and Clouds 
 https://docs.google.com/presentation/d/1n4ds_0CtTrhz2p0jUsKM5DXsPZEO1vrR7HVUk8eI8IE/edit#slide=id.g2851766554b_0_121
