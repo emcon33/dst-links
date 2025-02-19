@@ -67,6 +67,13 @@ https://access.redhat.com/articles/7107457
 RH1 Pricing Presentation 
 https://docs.google.com/presentation/d/1tdtqXpLFHQWc2lWQ_TP1-NlYxakKA4g7g0exTwMoWQ8/edit#slide=id.g2d600506f38_2_387
 
+OVE Pricing FAQ
+https://docs.google.com/document/d/1VPg2TE-oC1lcExbuL9YCesHfLhTKzCZA0Xh2m9G3o78/edit?tab=t.0#heading=h.66y4kqbj468a
+
+Virt Storage FAQ ODF
+https://docs.google.com/document/d/1XIOInsGg-0NorNZUBw_Gg3c4wVprdJLDt24iQLQxja0/edit?tab=t.0#heading=h.69cp25f6yx73
+
+
 
 
 Workload Sales Play                                       
