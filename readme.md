@@ -98,3 +98,13 @@ https://docs.google.com/spreadsheets/d/1q8OPgyzwDjt67ZbCgWo3_D45EDIjcXWM9YfBDJEI
 
 NA Channel Price Book: (Inernal)                                                                                            
 https://docs.google.com/spreadsheets/d/1Nl80Cqzr9IgAi3NTTLIoVEKuKI07scMTw_LEUqkrV9I/edit?gid=894518363#gid=894518363
+
+
+Training for OCP
+Interactive Labs for Red Hat OpenShift: https://www.redhat.com/en/interactive-labs/openshift
+Red Hat Interactive Experiences (Application Platform): https://www.redhat.com/en/interactive-experiences#application-platform
+Red Hat Interactive Experiences (Container Management): https://www.redhat.com/en/interactive-experiences#container-management
+Red Hat Interactive Experiences (Virtualization): https://www.redhat.com/en/interactive-experiences#virtualization
+Free Sandbox trail for 30 days  https://developers.redhat.com/developer-sandbox
+OpenShift Local.... laptop scope but we do typically recommend you drop it on a server for more memory. https://developers.redhat.com/products/openshift-local/overview
+
