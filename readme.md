@@ -73,6 +73,9 @@ https://docs.google.com/document/d/1VPg2TE-oC1lcExbuL9YCesHfLhTKzCZA0Xh2m9G3o78/
 Virt Storage FAQ ODF
 https://docs.google.com/document/d/1XIOInsGg-0NorNZUBw_Gg3c4wVprdJLDt24iQLQxja0/edit?tab=t.0#heading=h.69cp25f6yx73
 
+Virt References
+Hybrid VM and App             
+https://www.redhat.com/rhdc/managed-files/vi-reist-customer-case-study-1609321-202501-en.pdf
 
 
 
