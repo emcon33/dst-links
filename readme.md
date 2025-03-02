@@ -78,10 +78,42 @@ Hybrid VM and App
 https://www.redhat.com/rhdc/managed-files/vi-reist-customer-case-study-1609321-202501-en.pdf
 
 
+IBM Software on ARO: 
+<p align="left">
+  <a href="#"><img src="./CP4I.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
+
 
 Workload Sales Play                                       
 RH1 Session for Workloads OPP+ and Clouds 
 https://docs.google.com/presentation/d/1n4ds_0CtTrhz2p0jUsKM5DXsPZEO1vrR7HVUk8eI8IE/edit#slide=id.g2851766554b_0_121
+
+Maximo on ARO (Azure Deck)                                  
+https://docs.google.com/presentation/d/1Q_P6KkIRi4XGCCgjDjBRmVVKbDmRqRQ3/edit?usp=sharing&ouid=111460996034257234816&rtpof=true&sd=true
+
+Maximo on ARO One Pager                                                       
+https://drive.google.com/file/d/1JMHsPPkHFYERdXoRA7szuBqELSFrD4JL/view?usp=sharing
+
+Azure Workload Links Github                                          
+https://github.com/emcon33/ARO_Links
+
+IBM Software on ROSA: 
+<p align="left">
+  <a href="#"><img src="./Maximo.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
+
+Maximo on ROSA (AWS Deck)                                   
+https://drive.google.com/file/d/1KvUwnNN5uX5TYedcKqnrLEWYz5sUmqM4/view?usp=sharing
+
+Workload on AWS Links                    
+https://github.com/emcon33/ROSA-Links                   
+
+
+
 
 
 
