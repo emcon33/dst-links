@@ -139,11 +139,11 @@ https://drive.google.com/file/d/1CAlOq5zapc0gSM9t7euVQAV_y5ONP463/view
 
 
 Training for OCP
-Interactive Labs for Red Hat OpenShift: https://www.redhat.com/en/interactive-labs/openshift
-Red Hat Interactive Experiences (Application Platform): https://www.redhat.com/en/interactive-experiences#application-platform
-Red Hat Interactive Experiences (Container Management): https://www.redhat.com/en/interactive-experiences#container-management
-Red Hat Interactive Experiences (Virtualization): https://www.redhat.com/en/interactive-experiences#virtualization
+Interactive Labs for Red Hat OpenShift: https://www.redhat.com/en/interactive-labs/openshift                                    
+Red Hat Interactive Experiences (Application Platform): https://www.redhat.com/en/interactive-experiences#application-platform                         
+Red Hat Interactive Experiences (Container Management): https://www.redhat.com/en/interactive-experiences#container-management                             
+Red Hat Interactive Experiences (Virtualization): https://www.redhat.com/en/interactive-experiences#virtualization                                   
 
-Free Sandbox trail for 30 days  https://developers.redhat.com/developer-sandbox                  
+Free Sandbox trail for 30 days  https://developers.redhat.com/developer-sandbox                                                            
 OpenShift Local.... laptop scope but we do typically recommend you drop it on a server for more memory. https://developers.redhat.com/products/openshift-local/overview
 
