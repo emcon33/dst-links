@@ -27,6 +27,8 @@ https://docs.google.com/presentation/d/1mFMb2iRW1ivK2uozpMnJPkSqeahcNhcIIoUXvWZ0
 OCP Developer Hub App Mod Provisional 
 https://docs.google.com/presentation/d/1Dr2H0O72m_JxUwoyvtHLaXjUjJ84_UGdgeJiO--00uw/edit#slide=id.g201d508a934_0_160
 
+Interactive Demo's for customers (Public) 
+https://www.redhat.com/en/interactive-experiences
 
 
 Virtualizaiton                                         
