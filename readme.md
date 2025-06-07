@@ -54,6 +54,9 @@ Virt Reference Architecture
 https://access.redhat.com/articles/7067871
 https://access.redhat.com/sites/default/files/attachments/openshift_virtualization_reference_implementation_guide_v1.0.2_0.pdf
 
+Virt sizing Guide
+https://access.redhat.com/articles/7107457
+
 OpenShift Virt Internal Resources                
 https://catalog.redhat.com/platform/red-hat-openshift/virtualization
 
