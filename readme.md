@@ -38,6 +38,9 @@ https://content.redhat.com/us/en/assets/display.html?id=3b4be039-193b-43cb-b0ab-
 Technical Virtualization Deck 301                                                         
 https://content.redhat.com/us/en/assets/display.html?id=0a9e3bc2-276d-4ab0-971a-be4ad0c3a546
 
+References 060925 (internal) 
+https://docs.google.com/presentation/d/1AaoN4gNG05yoGv-FHF_lFEnXpDQEA6iEHwmHZmMEzQo/edit?slide=id.g35fa5da1d0d_2_7#slide=id.g35fa5da1d0d_2_7
+
 Workshops                  
 https://www.redhat.com/en/events/na-red-hat-openshift-virtualization
 
