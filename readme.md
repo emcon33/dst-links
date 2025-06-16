@@ -88,6 +88,13 @@ Virt References
 Hybrid VM and App             
 https://www.redhat.com/rhdc/managed-files/vi-reist-customer-case-study-1609321-202501-en.pdf
 
+TCO Self Service Deck
+https://docs.google.com/presentation/d/1XFjLVHJd53bwVKqC98wXPNbaKSR0243MD6PuK31FJ3E/edit?slide=id.g31a98622a8a_0_2098#slide=id.g31a98622a8a_0_2098
+
+TCO Self Service Calculator
+https://redhatdg.co1.qualtrics.com/jfe/form/SV_82F75bRBCaVyakS
+
+
 
 IBM Software on ARO: 
 <p align="left">
