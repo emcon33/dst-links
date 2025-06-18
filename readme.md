@@ -88,12 +88,28 @@ Virt References
 Hybrid VM and App             
 https://www.redhat.com/rhdc/managed-files/vi-reist-customer-case-study-1609321-202501-en.pdf
 
-TCO Self Service Deck
+OpenShift Virt TCO Self Service Deck
 https://docs.google.com/presentation/d/1XFjLVHJd53bwVKqC98wXPNbaKSR0243MD6PuK31FJ3E/edit?slide=id.g31a98622a8a_0_2098#slide=id.g31a98622a8a_0_2098
 
-TCO Self Service Calculator
+OpenShift Virt TCO Self Service Calculator
 https://redhatdg.co1.qualtrics.com/jfe/form/SV_82F75bRBCaVyakS
 
+NetApp OCP-V Documentaiton
+https://docs.netapp.com/us-en/netapp-solutions/containers/rh-os-n_use_case_openshift_virtualization_overview.html
+
+Pure Portworx OCP-V Documentation 
+https://docs.netapp.com/us-en/netapp-solutions/containers/rh-os-n_use_case_openshift_virtualization_overview.html
+
+
+OCP-V Workshops 
+Experience Virtual OpenShift Road show
+https://catalog.demo.redhat.com/catalog?item=babylon-catalog-prod/openshift-cnv.ocp-virt-roadshow-multi-user.prod&utm_source=webapp&utm_medium=share-link
+
+Day 2 OpenShift Virtualizaiton Road Show
+https://catalog.demo.redhat.com/catalog?item=babylon-catalog-dev/openshift-cnv.ocp-virt-roadshow-day2-multi-user.dev&utm_source=webapp&utm_medium=share-link
+
+Virtualization on ROSA Workshop
+https://catalog.demo.redhat.com/catalog?item=babylon-catalog-dev/sandboxes-gpte.virt-on-rosa.dev&utm_source=webapp&utm_medium=share-link
 
 
 IBM Software on ARO: 
@@ -104,7 +120,7 @@ IBM Software on ARO:
 </p>
 
 
-Workload Sales Play                                       
+OpenShift Workload Sales Play                                       
 RH1 Session for Workloads OPP+ and Clouds 
 https://docs.google.com/presentation/d/1n4ds_0CtTrhz2p0jUsKM5DXsPZEO1vrR7HVUk8eI8IE/edit#slide=id.g2851766554b_0_121
 
@@ -129,11 +145,6 @@ https://drive.google.com/file/d/1KvUwnNN5uX5TYedcKqnrLEWYz5sUmqM4/view?usp=shari
 
 Workload on AWS Links                    
 https://github.com/emcon33/ROSA-Links                   
-
-
-
-
-
 
 
 AI Sales Play(s)                                                                                                 
