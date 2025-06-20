@@ -30,6 +30,11 @@ https://docs.google.com/presentation/d/1Dr2H0O72m_JxUwoyvtHLaXjUjJ84_UGdgeJiO--0
 Interactive Demo's for customers (Public) 
 https://www.redhat.com/en/interactive-experiences
 
+Technical Account Manager
+https://docs.google.com/presentation/d/1mSLXi1C0HGGxA805q6Tr_uNi9bPPULMrEJUMcx_OEE8/edit?slide=id.g2434078337e_0_13#slide=id.g2434078337e_0_13
+
+TAM Data Sheet 
+https://www.redhat.com/en/resources/technical-account-management-datasheet
 
 Virtualizaiton                                         
 Sales Customer Virtualizaiton Deck 101                   
