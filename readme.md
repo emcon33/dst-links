@@ -117,6 +117,15 @@ Virtualization on ROSA Workshop
 https://catalog.demo.redhat.com/catalog?item=babylon-catalog-dev/sandboxes-gpte.virt-on-rosa.dev&utm_source=webapp&utm_medium=share-link
 
 
+Disaster Recovery - General Resources (ODF)
+
+https://redhat.enterprise.slack.com/files/U046B2D50DT/F08J3FJRWQ2/rh1_2024_fs_-_disaster_recovery_options_for_applications_running_on_openshift
+Here is something from Red Hat One CY24
+https://docs.google.com/presentation/d/1lz5y4avFmK_a8Q-9KFBiApjalYLv5B_X3KI8fw-dP1g/edit?slide=id.g2851766554b_0_5#slide=id.g2851766554b_0_5
+
+Here is an ACM DR Scenarios presentation
+https://docs.google.com/presentation/d/1HJOHYrBxBqrnnn16xCCE5FGNVPiovp2-W11VBSslLd4/edit?slide=id.g15880413ffc_0_79#slide=id.g15880413ffc_0_79
+
 IBM Software on ARO: 
 <p align="left">
   <a href="#"><img src="./CP4I.jpg" width="600"></a> <br />
