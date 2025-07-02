@@ -107,6 +107,9 @@ https://docs.netapp.com/us-en/netapp-solutions/containers/rh-os-n_use_case_opens
 Pure Portworx OCP-V Documentation 
 https://docs.netapp.com/us-en/netapp-solutions/containers/rh-os-n_use_case_openshift_virtualization_overview.html
 
+ODF rules of selling 
+https://source.redhat.com/departments/sales/global_sales_newsroom/gscs_announcements/updating_how_we_sell_storage_with_openshift
+
 
 OCP-V Workshops 
 Experience Virtual OpenShift Road show
