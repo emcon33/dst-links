@@ -48,6 +48,9 @@ https://content.redhat.com/us/en/assets/display.html?id=0a9e3bc2-276d-4ab0-971a-
 References 060925 (internal) 
 https://docs.google.com/presentation/d/1AaoN4gNG05yoGv-FHF_lFEnXpDQEA6iEHwmHZmMEzQo/edit?slide=id.g35fa5da1d0d_2_7#slide=id.g35fa5da1d0d_2_7
 
+References for searchable dashboard
+https://lookerstudio.google.com/reporting/88ef0e6e-942a-42cc-a168-15f5a1fe7a55/page/h2gJD
+
 Notebooklm references for all of NA
 https://notebooklm.google.com/notebook/8ed69279-5e68-4153-afe4-d6c6620ac6b6
 
