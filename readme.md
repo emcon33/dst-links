@@ -137,6 +137,41 @@ https://docs.google.com/presentation/d/1lz5y4avFmK_a8Q-9KFBiApjalYLv5B_X3KI8fw-d
 Here is an ACM DR Scenarios presentation
 https://docs.google.com/presentation/d/1HJOHYrBxBqrnnn16xCCE5FGNVPiovp2-W11VBSslLd4/edit?slide=id.g15880413ffc_0_79#slide=id.g15880413ffc_0_79
 
+
+***Application Platform Workloads***                                                                                    
+
+App Platform Resources
+https://docs.google.com/presentation/d/1m2vVe08JSdu9XTSQqOiUd76pi8hnG5F1QizkmTomgog/edit?slide=id.g35a5f592e42_4_1914#slide=id.g35a5f592e42_4_1914
+
+Notebook
+https://notebooklm.google.com/notebook/d8e672a4-e003-4595-b4c7-3a03c3000093
+
+Application Developer Sales Campaign 2H
+https://docs.google.com/presentation/d/1xGUotU5FzRYZkVL3pGLN-0mmqBTWxP4xu7iST-wHO-c/edit?slide=id.g33643925c6e_0_8386#slide=id.g33643925c6e_0_8386
+
+Developer Increase Productivity
+https://content.redhat.com/us/en/assets/display.html?id=7694a253-8add-44b1-968a-71b02f7470af
+https://content.redhat.com/us/en/assets/display.html?id=3429c062-867a-4866-a554-5199743920c9
+
+Red Hat Advanced Developer Suite
+https://content.redhat.com/us/en/assets/display.html?id=a837b182-76fa-4fb5-a238-07b7e5bd6a1a
+
+
+
+
+Application Foundations What is New/Next 
+https://docs.google.com/presentation/d/1MWeR3Lsq2s3GJwsiMbAUDCEEkL2Pp7HMBmNr4-EJZuc/edit?slide=id.g3679ea61e2c_3_41#slide=id.g3679ea61e2c_3_41
+https://docs.google.com/presentation/d/1MWeR3Lsq2s3GJwsiMbAUDCEEkL2Pp7HMBmNr4-EJZuc/edit?slide=id.p#slide=id.p
+
+JBOSS 7 field kit
+https://docs.google.com/presentation/d/1dHe7aHhT7OyL2tE4WNFHs90d0fb44d8ryhYH1G5ZBqI/edit?slide=id.g547716335e_0_260#slide=id.g547716335e_0_260
+
+Java for AI Workshop
+https://docs.google.com/presentation/d/118D6ACAf2bSgPwBQaLe7fUBo1rJqFcGZ8w2zHxTAkgo/edit?slide=id.g2b886b16443_0_4554#slide=id.g2b886b16443_0_4554
+
+
+
+
 IBM Software on ARO: 
 <p align="left">
   <a href="#"><img src="./CP4I.jpg" width="600"></a> <br />
