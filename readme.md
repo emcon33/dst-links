@@ -85,6 +85,9 @@ https://access.redhat.com/articles/4234591
 Bare Metal Discount Process                       
 https://docs.google.com/presentation/d/1nDrBRZ-GvJwbpLkmlguqx9CxRRi6iWbNDGkOxCPgaCA/edit#slide=id.g2d86095e9e2_0_5416
 
+BM change doc (internal) 
+https://content.redhat.com/us/en/assets/display.html?id=2be883d9-71d3-499e-b190-0739c8237931&fusionQueryId=u7ewaxl23M&query=bare%20metal%20value
+
 Vritualization Sizing Guide                
 https://access.redhat.com/articles/7107457
 
