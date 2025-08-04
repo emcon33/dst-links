@@ -38,7 +38,23 @@ https://docs.google.com/presentation/d/1mSLXi1C0HGGxA805q6Tr_uNi9bPPULMrEJUMcx_O
 TAM Data Sheet 
 https://www.redhat.com/en/resources/technical-account-management-datasheet
 
-Virtualizaiton                                         
+Virtualizaiton
+
+Peter Lauterbach
+
+Public
+red.ht/workswithvirt - Virtualization ecosystem landing page
+red.ht/summit25-virt - Red Hat Summit 2025 OpenShift Virtualization - All Sessions
+red.ht/nextandnew - What's Next and What's New in Red Hat OpenShift
+
+Partner
+red.ht/vma - Virtualization Migration Assessment datasheet on RHCC
+
+RH Internal
+red.ht/virtkit - OpenShift Virtualization sales tactic on RHCC
+red.ht/virt-isv - OpenShift Virtualization Partner Assessment Dashboard
+
+
 Sales Customer Virtualizaiton Deck 101                   
 https://content.redhat.com/us/en/assets/display.html?id=3b4be039-193b-43cb-b0ab-24976608421b
 
