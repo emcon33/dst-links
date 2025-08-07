@@ -39,9 +39,7 @@ TAM Data Sheet
 https://www.redhat.com/en/resources/technical-account-management-datasheet
 
 Virtualizaiton
-
-Peter Lauterbach
-
+Quick Links                                                                      
 Public
 red.ht/workswithvirt - Virtualization ecosystem landing page
 red.ht/summit25-virt - Red Hat Summit 2025 OpenShift Virtualization - All Sessions
@@ -187,8 +185,6 @@ https://docs.google.com/presentation/d/1dHe7aHhT7OyL2tE4WNFHs90d0fb44d8ryhYH1G5Z
 
 Java for AI Workshop
 https://docs.google.com/presentation/d/118D6ACAf2bSgPwBQaLe7fUBo1rJqFcGZ8w2zHxTAkgo/edit?slide=id.g2b886b16443_0_4554#slide=id.g2b886b16443_0_4554
-
-
 
 
 IBM Software on ARO: 
