@@ -186,6 +186,11 @@ https://docs.google.com/presentation/d/1dHe7aHhT7OyL2tE4WNFHs90d0fb44d8ryhYH1G5Z
 Java for AI Workshop
 https://docs.google.com/presentation/d/118D6ACAf2bSgPwBQaLe7fUBo1rJqFcGZ8w2zHxTAkgo/edit?slide=id.g2b886b16443_0_4554#slide=id.g2b886b16443_0_4554
 
+Healthcare for Red Hat 
+
+Notebook
+https://notebooklm.google.com/notebook/19a54e0d-d26d-4dd1-9324-8872781cfe14
+
 
 IBM Software on ARO: 
 <p align="left">
