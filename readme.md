@@ -173,6 +173,12 @@ https://content.redhat.com/us/en/assets/display.html?id=3429c062-867a-4866-a554-
 Red Hat Advanced Developer Suite
 https://content.redhat.com/us/en/assets/display.html?id=a837b182-76fa-4fb5-a238-07b7e5bd6a1a
 
+App Platform Self Demo, using RHPDS lab 
+OCP Demo Links for an "easy" demo for App Platform:   (screens are slightly different not). 
+DevOps Quality of Life Demo (Internal Link) https://drive.google.com/file/d/1k5zkpcLrocjvPwaQO9y_3_Wbc5H4D-33/view
+DevOps Quality of Life Demo (external Link) https://www.youtube.com/watch?v=C8wvyPE9hKw
+DevOps Qualify of LIfe Guide (internal) https://docs.google.com/presentation/d/1yoAz1AuPVs1mFa1AVLV3lgsDFFDAK1UUYc-xaEc1bns/edit?slide=id.g8d8b9be634_0_1921#slide=id.g8d8b9be634_0_1921
+
 
 
 
