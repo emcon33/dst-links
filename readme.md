@@ -39,19 +39,30 @@ TAM Data Sheet
 https://www.redhat.com/en/resources/technical-account-management-datasheet
 
 Virtualizaiton
-Quick Links                                                                      
-Public
-red.ht/workswithvirt - Virtualization ecosystem landing page
-red.ht/summit25-virt - Red Hat Summit 2025 OpenShift Virtualization - All Sessions
-red.ht/nextandnew - What's Next and What's New in Red Hat OpenShift
+Quick Links  
 
-Partner
-red.ht/vma - Virtualization Migration Assessment datasheet on RHCC
+Virtualization on OpenShift Learning Hub and Resources                                       
+https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization/learn
+
+Quick Links Public    
+Virtualization ecosystem landing page                         
+http://red.ht/workswithvirt                             
+
+Red Hat Summit 2025 OpenShift Virtualization - All Sessions
+http://red.ht/summit25-virt 
+
+What's Next and What's New in Red Hat OpenShift 4.19
+http://red.ht/nextandnew 
+
+Partner Virtualization Migration Assessment datasheet on RHCC                       
+http://red.ht/vma
 
 RH Internal
-red.ht/virtkit - OpenShift Virtualization sales tactic on RHCC
-red.ht/virt-isv - OpenShift Virtualization Partner Assessment Dashboard
+OpenShift Virtualization sales tactic on RHCC
+http://red.ht/virtkit
 
+OpenShift Virtualization Partner Assessment Dashboard
+http://red.ht/virt-isv 
 
 Sales Customer Virtualizaiton Deck 101                   
 https://content.redhat.com/us/en/assets/display.html?id=3b4be039-193b-43cb-b0ab-24976608421b
@@ -89,9 +100,9 @@ https://access.redhat.com/articles/7107457
 
 OpenShift Virt Internal Resources                
 https://catalog.redhat.com/platform/red-hat-openshift/virtualization
-
-OpenShift Virt Partner Assessment Dashboard.                       
-OpenShift Virt partner Assessment Dashboard. https://lookerstudio.google.com/u/0/reporting/f87e99f4-87de-4cd6-ad38-2fce9636f29e/page/p_xr0ju4ihjd
+                   
+OpenShift Virt partner Assessment Dashboard. 
+https://lookerstudio.google.com/u/0/reporting/f87e99f4-87de-4cd6-ad38-2fce9636f29e/page/p_xr0ju4ihjd
 
 Supported Guest OS            
 https://access.redhat.com/articles/4234591
@@ -133,7 +144,6 @@ https://docs.netapp.com/us-en/netapp-solutions/containers/rh-os-n_use_case_opens
 ODF rules of selling 
 https://source.redhat.com/departments/sales/global_sales_newsroom/gscs_announcements/updating_how_we_sell_storage_with_openshift
 
-
 OCP-V Workshops 
 Experience Virtual OpenShift Road show
 https://catalog.demo.redhat.com/catalog?item=babylon-catalog-prod/openshift-cnv.ocp-virt-roadshow-multi-user.prod&utm_source=webapp&utm_medium=share-link
@@ -144,11 +154,10 @@ https://catalog.demo.redhat.com/catalog?item=babylon-catalog-dev/openshift-cnv.o
 Virtualization on ROSA Workshop
 https://catalog.demo.redhat.com/catalog?item=babylon-catalog-dev/sandboxes-gpte.virt-on-rosa.dev&utm_source=webapp&utm_medium=share-link
 
-
 Disaster Recovery - General Resources (ODF)
-
 https://redhat.enterprise.slack.com/files/U046B2D50DT/F08J3FJRWQ2/rh1_2024_fs_-_disaster_recovery_options_for_applications_running_on_openshift
-Here is something from Red Hat One CY24
+
+Disaster Recovery - Here is something from Red Hat One CY24
 https://docs.google.com/presentation/d/1lz5y4avFmK_a8Q-9KFBiApjalYLv5B_X3KI8fw-dP1g/edit?slide=id.g2851766554b_0_5#slide=id.g2851766554b_0_5
 
 Here is an ACM DR Scenarios presentation
