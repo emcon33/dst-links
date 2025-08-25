@@ -169,6 +169,16 @@ https://docs.google.com/presentation/d/1HJOHYrBxBqrnnn16xCCE5FGNVPiovp2-W11VBSsl
 App Platform Resources
 https://docs.google.com/presentation/d/1m2vVe08JSdu9XTSQqOiUd76pi8hnG5F1QizkmTomgog/edit?slide=id.g35a5f592e42_4_1914#slide=id.g35a5f592e42_4_1914
 
+Demo Day in the LIfe (inernal)                      
+https://drive.google.com/file/d/1k5zkpcLrocjvPwaQO9y_3_Wbc5H4D-33/view
+
+Demo Day in the LIfe (external)                    
+https://www.youtube.com/watch?v=C8wvyPE9hKw&feature=youtu.be
+
+Demo Guide Day in the Life                   
+https://docs.google.com/presentation/d/1yoAz1AuPVs1mFa1AVLV3lgsDFFDAK1UUYc-xaEc1bns/edit?slide=id.g8d8b9be634_0_1921#slide=id.g8d8b9be634_0_1921
+
+
 Notebook
 https://notebooklm.google.com/notebook/d8e672a4-e003-4595-b4c7-3a03c3000093
 
