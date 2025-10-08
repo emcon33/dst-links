@@ -44,6 +44,9 @@ https://www.redhat.com/en/resources/technical-account-management-datasheet
 Virtualizaiton
 Quick Links  
 
+Discovery of Customer opportunity for OCP Virt use cases
+https://docs.google.com/document/d/1SctKiTpsH4Ax6NVp-sNXBKnQhwfSdsLsCZGtp6306Dw/edit?tab=t.0
+
 Virtualization on OpenShift Learning Hub and Resources                                       
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization/learn
 
