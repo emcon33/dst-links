@@ -5,9 +5,9 @@ Date: 08/20/25
 General DST SA Links list (internal doc) from a former SA
 https://docs.google.com/document/d/1CJAt15-GVQBHnoYpmT3QGaVMTpKRiAjoJ9WW7Xvl2l4/edit?tab=t.0#heading=h.qndi3vdiopjb
 
-SLAs: https://access.redhat.com/support/offerings/production/sla
-Scope of Coverage: https://access.redhat.com/support/offerings/production/soc/
-OpenShift Enterprise Support Policy: https://access.redhat.com/support/policy/updates/openshift/policies/
+SLAs: https://access.redhat.com/support/offerings/production/sla                              
+Scope of Coverage: https://access.redhat.com/support/offerings/production/soc/                               
+OpenShift Enterprise Support Policy: https://access.redhat.com/support/policy/updates/openshift/policies/                                    
 
 General Product Click Through Demo's                                                 
 https://www.redhat.com/en/interactive-experiences
