@@ -1,6 +1,6 @@
-This is a repo of Public links for General OpenShift Content for the DST team                      
-by Andrew Grimes                                                       
-Date: 08/20/25                                                     
+This is a repo of Internal (won't work if your not internal) and Public links for General OpenShift Content for the DST team                      
+by Andrew Grimes and the ASA team.                                                       
+Date: 11/14/25                                                     
 
 General DST SA Links list (internal doc) from a former SA - RHEL, Ansible and OpenShift 
 https://docs.google.com/document/d/1CJAt15-GVQBHnoYpmT3QGaVMTpKRiAjoJ9WW7Xvl2l4/edit?tab=t.0#heading=h.qndi3vdiopjb
