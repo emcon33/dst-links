@@ -94,6 +94,7 @@ https://notebooklm.google.com/notebook/8ed69279-5e68-4153-afe4-d6c6620ac6b6
 
 Workshops                  
 https://www.redhat.com/en/events/na-red-hat-openshift-virtualization
+https://www.redhat.com/en/events/na-workshops-labs
 
 Hardware Catalog (external)
 https://catalog.redhat.com/search?searchType=hardware&certified_RedHat_Platforms=Red%20Hat%20OpenShift%20Container%20Platform&p=1
