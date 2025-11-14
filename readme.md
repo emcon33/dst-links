@@ -2,7 +2,7 @@ This is a repo of Public links for General OpenShift Content for the DST team
 by Andrew Grimes                                                       
 Date: 08/20/25                                                     
 
-General DST SA Links list (internal doc) from a former SA
+General DST SA Links list (internal doc) from a former SA - RHEL, Ansible and OpenShift 
 https://docs.google.com/document/d/1CJAt15-GVQBHnoYpmT3QGaVMTpKRiAjoJ9WW7Xvl2l4/edit?tab=t.0#heading=h.qndi3vdiopjb
 
 SLAs: https://access.redhat.com/support/offerings/production/sla                              
@@ -44,6 +44,9 @@ https://docs.google.com/presentation/d/1mSLXi1C0HGGxA805q6Tr_uNi9bPPULMrEJUMcx_O
 
 TAM Data Sheet 
 https://www.redhat.com/en/resources/technical-account-management-datasheet
+
+Account OVE, OKE, OCP, OPP swap process for upgrading a system   
+https://source.redhat.com/groups/public/global-order-management/global_order_management_and_billing_operations_wiki/how_do_i_process_an_upgradeswapremix_for_channel_and_direct
 
 Virtualizaiton
 Quick Links  
